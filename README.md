@@ -20,5 +20,5 @@ This is a simple weather application that allows users to search for weather inf
 To run this project locally, clone the repository and open `index.html` in your web browser.
 
 ```bash
-git clone https://github.com/yourusername/weather-app.git
-cd weather-app
+git clone https://github.com/josam100/WeatherApplication.git
+cd WeatherApplication
